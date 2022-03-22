@@ -9,7 +9,7 @@
   
   inputs.src-synthesis-v0_2_0.flake = false;
   inputs.src-synthesis-v0_2_0.owner = "mratsim";
-  inputs.src-synthesis-v0_2_0.ref   = "refs/tags/v0.2.0";
+  inputs.src-synthesis-v0_2_0.ref   = "v0_2_0";
   inputs.src-synthesis-v0_2_0.repo  = "Synthesis";
   inputs.src-synthesis-v0_2_0.type  = "github";
   

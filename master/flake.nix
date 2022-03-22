@@ -9,7 +9,7 @@
   
   inputs.src-synthesis-master.flake = false;
   inputs.src-synthesis-master.owner = "mratsim";
-  inputs.src-synthesis-master.ref   = "refs/heads/master";
+  inputs.src-synthesis-master.ref   = "master";
   inputs.src-synthesis-master.repo  = "Synthesis";
   inputs.src-synthesis-master.type  = "github";
   
